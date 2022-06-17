@@ -1,0 +1,19 @@
+segment_sources:
+  ICF9C25B0:
+    type: origin_type
+    relation: translation
+    language: en
+  I0A361364:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  bca5a91997774a268d9fa90a8bd92b44:
+    ICF9C25B0: f6e4e4f77e5c44448ab61feb8f334036
+    I0A361364: 040e03e43b0847a38d3cba6e9f81610c
+  04011e60f3ed432bba16ff33c050baff:
+    ICF9C25B0: fed514b67c854cd898f0ee0143d49842
+    I0A361364: db9e685f378e44f89e339e9f765d18e3
+  4e8843adbf5e4f13846b3c80026addbf:
+    ICF9C25B0: 773e5d5941464a80adc60adb589e0cf0
+    I0A361364: 8232ba35d76c4212acc5b7a8d5292356
